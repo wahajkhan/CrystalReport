@@ -1,0 +1,6 @@
+C:\Users\Lucifer\Documents\Visual Studio 2013\Projects\crystal report\crystal report\bin\crystal report.dll.config
+C:\Users\Lucifer\Documents\Visual Studio 2013\Projects\crystal report\crystal report\bin\crystal report.dll
+C:\Users\Lucifer\Documents\Visual Studio 2013\Projects\crystal report\crystal report\bin\crystal report.pdb
+C:\Users\Lucifer\Documents\Visual Studio 2013\Projects\crystal report\crystal report\obj\Debug\crystal report.csprojResolveAssemblyReference.cache
+C:\Users\Lucifer\Documents\Visual Studio 2013\Projects\crystal report\crystal report\obj\Debug\crystal report.dll
+C:\Users\Lucifer\Documents\Visual Studio 2013\Projects\crystal report\crystal report\obj\Debug\crystal report.pdb
